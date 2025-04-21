@@ -3,11 +3,6 @@
 ## Objective
 Forecast System Price for the UK electricity market on October 1st, 2024, using 30-minute intervals.
 
-**Objective**:  
-Predict energy renewals based on time series data including balancing, demand, generation, and price.
-
----
-
 ## 2. Setup and Imports
 - Imported necessary libraries such as `pandas`, `numpy`, `seaborn`, `matplotlib`, `plotly`, `statsmodels`, and `xgboost`.
 - Suppressed warnings and set a consistent plotting style.
